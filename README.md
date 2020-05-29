@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Descripción del Proyecto
+
+Aplicación sencilla para la práctica de React con el uso de la API NewsAPI https://newsapi.org/
+Se utiliza fetch para realizar las consultas.
+Uso de modulos css para estilos.
+
 ## Available Scripts
 
 In the project directory, you can run:
